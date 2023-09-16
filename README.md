@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Personal Development Skills**
 
-- 🌱 I’m currently learning **Python and some other stuffs**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **jnakarmi321@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me: </h3> -->
 <p align="left">
 </p>
 
