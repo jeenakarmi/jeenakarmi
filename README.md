@@ -23,10 +23,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/>
+  <a href="https://www.microsoft.com/excel/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spss/spss-original.svg" alt="spss" width="40" height="40"/> </a>
 </p>
 
 
